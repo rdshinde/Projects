@@ -6,7 +6,7 @@ All the projects are created using simple topics in programming such as :
                           * Recursion
                           * Loops
                           * Conditional Statements, etc.
-If you find some bugs don't hegitate to reply with solutions and bug fixing techniques.
+If you find some bugs don't hesitate to reply with solutions and bug fixing techniques.
 I hope you will appreciate.
 Thank you!
 
