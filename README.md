@@ -1,5 +1,5 @@
 # Projects
-This directory includes some of my command line user interface projects. Further the directory contains folders specified with programming languages.
+This directory includes some of my command line user interface projects and web projects including some traditional games like Rock-Paper-Scissors. Further the directory contains folders specified with programming languages as well as Prject Names.
 All the projects are created using simple topics in programming such as :
                           * Object Oriented Programming
                           * Functions
